@@ -1,6 +1,8 @@
 # Marketing-Data-Analytics
 Marketing Data Analytics
 
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc1ODFiZjItYmMyYy00NTY1LWE5NDAtNDdlNjAyYjAyNzVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Overview of Panels
 ![Marketing Analytics Dashboard-images-0](https://github.com/user-attachments/assets/9bd87854-c1e8-4ef4-9614-0a30a93f49d5)
 
